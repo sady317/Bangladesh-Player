@@ -1,0 +1,372 @@
+[
+    {
+      "id": 1,
+      "name": "Mashrafe Mortaza",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/316500/316529.png",
+      "age": 38,
+      "player_role": "Fast Bowler",
+      "description": "Experienced fast bowler and former captain known for his leadership on the field.",
+      "home_division": "Khulna Division",
+      "tagline": "Leader on the Field, Master of Pace." 
+    },
+    {
+      "id": 2,
+      "name": "Shakib Al Hasan",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/316500/316581.png",
+      "age": 34,
+      "player_role": "All-rounder",
+      "description": "Versatile all-rounder with a brilliant cricketing mind. Master of spin and a dependable middle-order batsman.",
+      "home_division": "Khulna Division",
+      "tagline": "Master of Spin, All-round Brilliance."
+    },
+    {
+      "id": 3,
+      "name": "Mushfiqur Rahim",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/316500/316578.png",
+      "age": 34,
+      "player_role": "Wicket-keeper Batsman",
+      "description": "The heart of the team and a skilled wicket-keeper. A consistent batsman known for his composure under pressure.",
+      "home_division": "Rajshahi Division",
+      "tagline": "Heart of the Team, Composure Under Pressure."
+    },
+    {
+      "id": 4,
+      "name": "Tamim Iqbal",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/316500/316583.png",
+      "age": 32,
+      "player_role": "Opening Batsman",
+      "description": "Explosive left-handed opener with a wealth of experience. Holds numerous records in Bangladesh cricket.",
+      "home_division": "Chittagong Division",
+      "tagline": "Explosive Opener, Record Holder."
+    },
+    {
+      "id": 5,
+      "name": "Mustafizur Rahman",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/319700/319734.png",
+      "age": 25,
+      "player_role": "Fast Bowler",
+      "description": "Young pace sensation with deadly variations. The 'Fizz' can trouble any batsman with his yorkers and cutters.",
+      "home_division": "Khulna Division",
+      "tagline": "Fizz with Deadly Variations."
+    },
+    {
+      "id": 6,
+      "name": "Mehidy Hasan Miraz",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/319700/319728.png",
+      "age": 23,
+      "player_role": "Spin Bowler",
+      "description": "Talented off-spinner known for his accuracy and breakthroughs. A future star in Bangladesh's spin department.",
+      "home_division": "Khulna Division",
+      "tagline": "Accurate Off-spin, Future Star."
+    },
+    {
+      "id": 7,
+      "name": "Liton Das",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/319700/319727.png",
+      "age": 27,
+      "player_role": "Opening Batsman",
+      "description": "Elegant right-handed opener with a penchant for explosive strokes. A vital cog in Bangladesh's top order.",
+      "home_division": "Rangpur Division",
+      "tagline": "Elegant Opener, Explosive Strokes."
+    },
+    {
+      "id": 8,
+      "name": "Taskin Ahmed",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/316700/316703.png",
+      "age": 27,
+      "player_role": "Fast Bowler",
+      "description": "Express fast bowler known for raw pace and toe-crushing yorkers. A match-winner with the ball.",
+      "home_division": "Dhaka Division",
+      "tagline": "Express Pace, Toe-Crushing Yorkers."
+    },
+    {
+      "id": 9,
+      "name": "Soumya Sarkar",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/316600/316685.png",
+      "age": 29,
+      "player_role": "All-rounder",
+      "description": "Hard-hitting left-handed batsman and handy medium-pacer. Adds balance with both bat and ball.",
+      "home_division": "Khulna Division",
+      "tagline": "Hard-hitting Batsman, Handy Medium-pacer."
+    },
+    {
+      "id": 10,
+      "name": "Mahmudullah Riyad",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/316500/316571.png",
+      "age": 35,
+      "player_role": "All-rounder",
+      "description": "Experienced all-rounder, cool under pressure, and a reliable finisher. A senior figure in the team.",
+      "home_division": "Mymensingh Division",
+      "tagline": "Experienced All-rounder, Cool under Pressure."
+    },
+    {
+      "id": 11,
+      "name": "Nasum Ahmed",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/323100/323176.png",
+      "age": 22,
+      "player_role": "Spin Bowler",
+      "description": "Young left-arm spinner with a bag of tricks. His variations make him a potent force in T20 cricket.",
+      "home_division": "Rajshahi Division",
+      "tagline": "Variations Specialist, T20 Potent Force."
+    },
+    {
+      "id": 12,
+      "name": "Abu Hider Rony",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/323100/323160.png",
+      "age": 26,
+      "player_role": "Fast Bowler",
+      "description": "Pacy fast bowler with the ability to generate bounce. A genuine wicket-taker in the early overs.",
+      "home_division": "Barishal Division",
+      "tagline": "Pacy Wicket-taker, Early Over Specialist."
+    },
+    {
+      "id": 13,
+      "name": "Aminul Islam Biplob",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/319700/319720.png",
+      "age": 21,
+      "player_role": "Spin Bowler",
+      "description": "Young leg-spin sensation with a knack for deceiving batsmen. Rising star in Bangladesh's spin department.",
+      "home_division": "Dhaka Division",
+      "tagline": "Leg-spin Sensation, Deceptive Deliveries."
+    },
+    {
+      "id": 14,
+      "name": "Najmul Hossain Shanto",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/323100/323155.png",
+      "age": 23,
+      "player_role": "Batsman",
+      "description": "Stylish left-handed batsman with a solid technique. Promising talent in the middle order.",
+      "home_division": "Barishal Division",
+      "tagline": "Stylish Left-hander, Middle Order Anchor."
+    },
+    {
+      "id": 15,
+      "name": "Taijul Islam",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/316600/316675.png",
+      "age": 29,
+      "player_role": "Spin Bowler",
+      "description": "Left-arm orthodox spinner known for his accuracy. Can trouble batsmen with his subtle variations.",
+      "home_division": "Rajshahi Division",
+      "tagline": "Accuracy Specialist, Subtle Variations."
+    },
+    {
+      "id": 16,
+      "name": "Mominul Haque",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/316600/316666.png",
+      "age": 30,
+      "player_role": "Batsman",
+      "description": "Solid left-handed batsman with a penchant for building innings. A key figure in the test format.",
+      "home_division": "Chittagong Division",
+      "tagline": "Solid Batsman, Test Format Specialist."
+    },
+    {
+      "id": 17,
+      "name": "Rubel Hossain",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/316600/316634.png",
+      "age": 32,
+      "player_role": "Fast Bowler",
+      "description": "Experienced fast bowler with raw pace and ability to reverse swing. A match-winner in ODIs.",
+      "home_division": "Khulna Division",
+      "tagline": "Raw Pace, ODI Match-winner."
+    },
+    {
+      "id": 18,
+      "name": "Anamul Haque",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/316600/316669.png",
+      "age": 28,
+      "player_role": "Batsman",
+      "description": "Stylish right-handed batsman with a penchant for big scores. An asset in limited-overs cricket.",
+      "home_division": "Khulna Division",
+      "tagline": "Stylish Right-hander, Big Scores."
+    },
+    {
+      "id": 19,
+      "name": "Mosaddek Hossain",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/319700/319733.png",
+      "age": 25,
+      "player_role": "All-rounder",
+      "description": "Versatile all-rounder known for his big-hitting prowess and handy off-spin. A game-changer in T20s.",
+      "home_division": "Mymensingh Division",
+      "tagline": "Versatile All-rounder, T20 Game-changer."
+    },
+    {
+      "id": 20,
+      "name": "Imrul Kayes",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/319700/319722.png",
+      "age": 34,
+      "player_role": "Batsman",
+      "description": "Experienced top-order batsman with a knack for building partnerships. A reliable presence in ODIs.",
+      "home_division": "Khulna Division",
+      "tagline": "Experienced Top-order Batsman, Partnership Builder."
+    },
+    {
+      "id": 21,
+      "name": "Sabbir Rahman",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/316600/316665.png",
+      "age": 29,
+      "player_role": "Batsman",
+      "description": "Aggressive right-handed batsman known for his attacking style. A match-winner in T20 cricket.",
+      "home_division": "Rajshahi Division",
+      "tagline": "Aggressive Batsman, T20 Match-winner."
+    },
+    {
+      "id": 22,
+      "name": "Mohammad Saifuddin",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/322800/322800.png",
+      "age": 24,
+      "player_role": "All-rounder",
+      "description": "A talented all-rounder known for his ability to hit big shots and contribute with the ball. A rising star.",
+      "home_division": "Chittagong Division",
+      "tagline": "Talented All-rounder, Rising Star."
+    },
+    {
+        "id": 23,
+        "name": "Shoriful Islam",
+        "img": "https://th.bing.com/th/id/OIP.7xHGTz_ABsAxH0gMf8JAOQHaHa?pid=ImgDet&rs=1",
+        "age": 21,
+        "player_role": "Fast Bowler",
+        "description": "Young left-arm pacer with great potential. Can generate good pace and swing.",
+        "home_division": "Barishal Division",
+        "tagline": "Young Left-arm Pacer, Pace and Swing Specialist."
+      },
+      {
+        "id": 24,
+        "name": "Afif Hossain",
+        "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/323100/323159.png",
+        "age": 22,
+        "player_role": "All-rounder",
+        "description": "Young all-rounder with a bright future. Can contribute with bat and ball in various formats.",
+        "home_division": "Chattogram Division",
+        "tagline": "Young All-rounder, Bright Future Ahead."
+      },
+      {
+        "id": 25,
+        "name": "Mohammad Mithun",
+        "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/319700/319730.png",
+        "age": 31,
+        "player_role": "Wicket-keeper Batsman",
+        "description": "Solid middle-order batsman who can keep wickets when needed.",
+        "home_division": "Khulna Division",
+        "tagline": "Solid Middle-order Batsman, Wicket-keeping Option."
+      },
+      {
+        "id": 26,
+        "name": "Arafat Sunny",
+        "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/316500/316548.png",
+        "age": 34,
+        "player_role": "Spin Bowler",
+        "description": "Experienced left-arm spinner who can provide crucial breakthroughs.",
+        "home_division": "Dhaka Division",
+        "tagline": "Experienced Left-arm Spinner, Breakthrough Specialist."
+      },
+      {
+        "id": 27,
+        "name": "Ebadot Hossain",
+        "img": "https://th.bing.com/th/id/OIP.7xHGTz_ABsAxH0gMf8JAOQHaHa?pid=ImgDet&rs=1",
+        "age": 26,
+        "player_role": "Fast Bowler",
+        "description": "Right-arm fast bowler with good control and the ability to move the ball off the pitch.",
+        "home_division": "Rajshahi Division",
+        "tagline": "Right-arm Fast Bowler, Ball Movement Specialist."
+      },
+      {
+        "id": 28,
+        "name": "Tanzid Hasan Tamim",
+        "img": "https://th.bing.com/th/id/OIP.KQWBH5Tihmu17MExDbsjKgHaHa?pid=ImgDet&rs=1",
+        "age": 19,
+        "player_role": "Batsman",
+        "description": "Young and promising opening batsman with a solid technique.",
+        "home_division": "Khulna Division",
+        "tagline": "Promising Opening Batsman, Solid Technique."
+      },
+      {
+        "id": 29,
+        "name": "Nayeem Hasan",
+        "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/323100/323170.png",
+        "age": 21,
+        "player_role": "Spin Bowler",
+        "description": "Off-spin bowler with the ability to extract turn and bounce from the pitch.",
+        "home_division": "Chattogram Division",
+        "tagline": "Off-spin Maestro, Turn and Bounce Specialist."
+      },
+      {
+        "id": 30,
+        "name": "Towhid Hridoy",
+        "img": "https://cricgram.b-cdn.net/wp-content/uploads/2023/03/Towhid-Hridoy--768x768.jpg",
+        "age": 21,
+        "player_role": "Batsman",
+        "description": "Young and talented middle-order batsman with a bright future.",
+        "home_division": "Dhaka Division",
+        "tagline": "Talented Middle-order Batsman, Bright Future Ahead."
+      },
+      {
+        "id": 31,
+        "name": "Nazmul Islam Apu",
+        "img": "https://th.bing.com/th/id/R.1d935b06b9ef8ef28bd60a9e6582f977?rik=OT0wQHADTlZ92A&pid=ImgRaw&r=0",
+        "age": 26,
+        "player_role": "Spin Bowler",
+        "description": "Left-arm spinner known for his ability to contain runs in the shortest format.",
+        "home_division": "Khulna Division",
+        "tagline": "Left-arm Spin Specialist, Run Containment Expert."
+      },
+      {
+        "id": 32,
+        "name": "Tajul Islam",
+        "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/316600/316675.png",
+        "age": 28,
+        "player_role": "Spin Bowler",
+        "description": "Left-arm orthodox spinner who can provide crucial breakthroughs.",
+        "home_division": "Rajshahi Division",
+        "tagline": "Left-arm Orthodox Spinner, Breakthrough Specialist."
+      },
+      {
+        "id": 33,
+        "name": "Shuvagata Hom",
+        "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/330400/330471.png",
+        "age": 32,
+        "player_role": "All-rounder",
+        "description": "Experienced all-rounder who can contribute with bat and ball.",
+        "home_division": "Khulna Division",
+        "tagline": "Experienced All-rounder, Bat and Ball Contributor."
+      },
+      {
+        "id": 34,
+        "name": "Abul Hasan Raju",
+        "img": "https://th.bing.com/th/id/R.9919ea971aa70050380ff2575b82e675?rik=uQsQSnV1%2fXS1rA&pid=ImgRaw&r=0",
+        "age": 32,
+        "player_role": "All-rounder",
+        "description": "Experienced all-rounder who can provide valuable contributions with bat and ball.",
+        "home_division": "Barishal Division",
+        "tagline": "Experienced All-rounder, Valuable Contributions."
+      },
+      {
+        "id": 36,
+        "name": "Yasir Ali Chowdhury",
+        "img": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/179500/179555.1.jpg",
+        "age": 24,
+        "player_role": "Batsman",
+        "description": "Promising young batsman known for his aggressive strokeplay.",
+        "home_division": "Khulna Division",
+        "tagline": "Promising Batsman, Aggressive Strokeplay."
+      },
+      {
+        "id": 37,
+        "name": "Nurul Hasan Sohan",
+        "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/323100/323162.png",
+        "age": 30,
+        "player_role": "Wicket-keeper Batsman",
+        "description": "Wicket-keeper batsman known for his ability to play aggressive strokes.",
+        "home_division": "Rajshahi Division",
+        "tagline": "Wicket-keeper Batsman, Aggressive Strokes Specialist."
+      },
+      {
+        "id": 38,
+        "name": "Nasum Ahmed",
+        "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/323100/323176.png",
+        "age": 22,
+        "player_role": "Spin Bowler",
+        "description": "Young left-arm spinner with a bag of tricks. His variations make him a potent force in T20 cricket.",
+        "home_division": "Chattogram Division",
+        "tagline": "Young Left-arm Spinner, Variations Specialist."
+      }
+    ]
