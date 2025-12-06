@@ -1,5 +1,6 @@
 import React, { use, useEffect, useState } from 'react'
 import PlayerCard from '../components/PlayerCard'
+import toast from 'react-hot-toast'
 
 
 export default function Home() {
@@ -10,9 +11,19 @@ export default function Home() {
   // console.log(selectPlayer)
 
 function addPlayer(details){
-  const newPlayer=[...selectPlayer,details]
+const isHave=selectPlayer.find((p)=>p.name===details.name)
+console.log(isHave)
+if(isHave){
+  toast.error(`${details.name} already exitsted`)
+}
+else if(selectPlayer.length>=11){
+   toast.error("Player fullfield")
+}
+else{
+    const newPlayer=[...selectPlayer,details]
   setSelectPlayer(newPlayer)
-
+  toast.success("Player Add Successfully")
+}
   
 }
 
@@ -30,10 +41,10 @@ function addPlayer(details){
     <h1  className='text-center bg-red-400 w-30 cursor-pointer mx-auto my-6 py-2 text-white rounded-sm'>Make your 11</h1>
     
     
-    <section  className='grid grid-cols-10'>
-    <div className='grid grid-cols-3 space-y-8 col-span-8'>
+    <section  className='lg:grid lg:grid-cols-10'>
+    <div className='grid lg:grid-cols-3 md:grid-cols-2 space-y-8 col-span-8'>
       {player.map((p)=>(
-        <PlayerCard player={p} addPlayer={addPlayer}/>
+        <PlayerCard player={p} addPlayer={addPlayer} key={p.id}/>
  
       ))}
         
