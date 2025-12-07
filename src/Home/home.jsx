@@ -50,7 +50,7 @@ else{
         
 </div>
 
-<div className='col-span-2'>
+<div className='lg:col-span-2 mx-6 my-6 lg:mx-0 lg:my-0 '>
 <h1 className='text-center bg-red-400  cursor-pointer  mb-6 py-2 text-white rounded-sm'>Selected Players</h1>
 <div>
 {selectPlayer.map((p)=>(
